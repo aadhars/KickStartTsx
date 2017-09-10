@@ -22409,7 +22409,7 @@ var Hello = /** @class */ (function (_super) {
     }
     Hello.prototype.render = function () {
         return React.createElement("h1", null,
-            "Hello Adhar!  from ",
+            "Hello from ",
             this.props.compiler,
             " and ",
             this.props.framework,

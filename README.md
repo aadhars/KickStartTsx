@@ -2,6 +2,16 @@
 A kick start project to use react with typescript and webpack
 
 
+# Usage
+
+Use following commands to get project rolling:
+
+* npm install
+* npm run dev
+* npm run start
+
+Any changes you make to your react component will get refected to your local server
+
 # References
 
 * [React and webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
